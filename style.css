@@ -1,0 +1,31 @@
+
+.container {
+    width: 255px;
+    text-align: center;
+    margin: auto;
+    color: #fff;
+    font-family: system-ui;
+}
+.title {
+    background-color: #33004d;
+    padding: 10px 0;
+    margin: 5px 0;
+    font-size: 20px;
+    font-weight: 600;
+}
+.title span {
+    color: #fa0;
+}
+.box {
+    background-color: #6f2892;
+    width: 80px;
+    height: 80px;
+    float: left;
+    margin: 2px;
+    font-size: 50px;
+    font-weight: 600;
+    cursor: pointer;
+}
+.box:hover {
+    background-color: #000;
+}
